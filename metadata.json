@@ -1,0 +1,6 @@
+{
+  "name": "Gen-Z Translator",
+  "description": "An interactive, high-fidelity app that translates formal or standard English into vibrant Gen-Z slang with adjustable settings like temperature, nucleus sampling, token length, and custom system prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
